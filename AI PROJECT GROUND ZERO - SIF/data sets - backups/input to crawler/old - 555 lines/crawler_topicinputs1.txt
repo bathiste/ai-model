@@ -1,0 +1,554 @@
+python programming
+c programming
+c++ programming
+java programming
+javascript programming
+rust programming
+go programming
+c# programming
+assembly language
+bash scripting
+powershell scripting
+lua programming
+kotlin programming
+typescript programming
+data structures and algorithms
+operating system design
+compiler theory
+systems programming
+distributed systems
+network architectures
+protocol design
+computer architecture
+database systems
+backend development
+frontend development
+software testing and qa
+concurrency and multithreading
+design patterns
+web security
+rest apis
+full stack development
+react tutorial
+node.js backend
+django backend
+flask tutorial
+html5 and css3
+web performance optimization
+websocket programming
+machine learning basics
+deep learning architectures
+neural network training
+computer vision tutorial
+natural language processing
+reinforcement learning
+data visualization techniques
+python pandas tutorial
+numpy tutorial
+statistics for machine learning
+ai model evaluation
+data mining
+linear algebra for ml
+large language model training
+transformer architecture
+rlhf training
+tokenization methods
+vector database retrieval
+embedding models
+llm inference optimization
+quantization techniques
+attention mechanisms
+gpu acceleration
+network security fundamentals
+penetration testing basics
+malware analysis tutorial
+reverse engineering
+incident response
+forensic analysis
+cyber threat intelligence
+vulnerability scanning
+exploit development basics
+windows security internals
+linux hardening
+secure coding practices
+encryption and cryptography
+docker tutorial
+kubernetes basics
+ci cd pipelines
+infrastructure as code
+linux server administration
+windows server administration
+cloud computing fundamentals
+terraform tutorial
+ansible automation
+load balancing techniques
+network monitoring
+tcp ip deep dive
+dns protocol
+http specification
+packet analysis tutorial
+wireshark usage
+routing and switching
+firewall configuration
+network topologies
+vpn technologies
+microcontrollers tutorial
+embedded systems programming
+fpga basics
+verilog tutorial
+computer buses and memory
+cpu microarchitecture
+gpu architecture
+instruction set design
+discrete mathematics
+number theory basics
+probability for computer science
+optimization algorithms
+graph theory
+linear algebra
+calculus for machine learning
+technology news
+software engineering news
+cybersecurity news
+ai research news
+startup news
+open source news
+linux foundation news
+cloud computing news
+quantum computing news
+computer science history
+famous programmers
+open source projects
+case studies in engineering
+tech company profiles
+federal bureau of investigation history
+central intelligence agency history
+nsa national security agency history
+department of homeland security history
+military intelligence history
+five eyes intelligence alliance
+british mi5 history
+british mi6 history
+israel mossad history
+german bnd intelligence history
+russian foreign intelligence service svr history
+china ministry of state security mss history
+intelligence oversight committees
+church committee history
+intelligence community transparency reports
+government surveillance reports
+freedom of information act cases
+palantir technologies history
+blackrock company history
+raytheon technologies history
+lockheed martin history
+booz allen hamilton history
+northrop grumman history
+bae systems history
+thales group technology history
+ibm corporate history
+google company history
+amazon web services history
+microsoft security history
+cisco systems history
+edward snowden nsa leaks history
+chelsea manning leaks history
+wikileaks history and publications
+panama papers investigation history
+paradise papers history
+vault 7 cia leak history
+shadow brokers nsa leak history
+pegasus spyware investigation history
+cambridge analytica scandal history
+global surveillance disclosures
+internet privacy controversies
+government mass surveillance history
+cyber warfare history
+cold war intelligence history
+counterintelligence operations history
+russian cyber operations history
+chinese cyber operations history
+us cyber command history
+european cyber defence initiatives history
+private intelligence contractors
+defense contractors in cybersecurity
+corporate government data partnerships history
+technology companies and national security
+open source intelligence osint history
+big data analytics companies history
+investigative journalism history
+propublica investigations
+the intercept investigations
+guardian investigative reporting
+washington post national security reporting
+new york times cybersecurity coverage
+impact of snowden disclosures
+impact of manning disclosures
+public reaction to nsa surveillance
+data privacy legal reforms
+international surveillance agreements
+cve
+zero days
+wannacry ransomware analysis
+notpetya malware analysis
+stuxnet malware history
+conficker worm analysis
+iloveyou worm history
+nimda virus history
+sql slammer worm analysis
+zeus banking trojan analysis
+tinba trojan analysis
+agent tesla analysis
+trickbot malware analysis
+emotet botnet history
+dridex malware analysis
+locky ransomware history
+maze ransomware analysis
+revil ransomware analysis
+black basta ransomware analysis
+apt28 malware analysis
+apt29 malware analysis
+apt33 malware analysis
+apt41 malware analysis
+lazarus group malware analysis
+equation group malware analysis
+sandworm team malware history
+turla group analysis
+fin7 cybercrime group analysis
+fin4 threat group history
+oilrig apt analysis
+android malware analysis history
+ios malware research
+pegasus spyware investigation history
+xagent mobile malware analysis
+triada android trojan analysis
+flu bot mobile malware analysis
+mirai botnet analysis
+mozi botnet analysis
+ddos botnet history
+cutwail botnet history
+kraken botnet analysis
+avalon botnet history
+ransomware as a service raas history
+darkside ransomware group history
+blackmatter ransomware analysis
+conti leaks and internal documents
+babuk ransomware analysis
+lockbit operation history
+cve exploit history
+eternalblue exploit analysis
+shellshock vulnerability analysis
+heartbleed vulnerability history
+log4shell vulnerability analysis
+spectre meltdown analysis
+printnightmare vulnerability analysis
+follina msdt vulnerability analysis
+malware persistence techniques analysis
+malware obfuscation techniques
+software packing and unpacking
+code injection techniques analysis
+process hollowing analysis
+dll injection analysis
+living off the land binaries lolbins
+command and control infrastructure analysis
+malware sandbox evasion techniques
+endpoint detection bypass techniques (historical research)
+fileless malware analysis
+memory forensics case studies
+static analysis tutorial
+dynamic analysis tutorial
+pe file format analysis
+elf file format analysis
+windows internals for malware analysis
+linux internals for malware analysis
+assembly language for reverse engineering
+ida pro reverse engineering workflow
+ghidra reverse engineering workflow
+radare2 analysis tutorial
+debugging with x64dbg
+cyber threat intelligence reports
+apt activity timelines
+malware campaign tracking
+ioc indicators of compromise analysis
+incident response case studies
+digital forensics investigations
+memory dump forensics
+network traffic analysis for ir
+malware clustering techniques
+yara rule writing tutorial
+cybercrime ecosystem research
+dark web cybercrime marketplace history
+botnet takedown operations
+law enforcement cybercrime cases
+international cybercrime indictments
+# MALWARE FAMILIES – HISTORICAL / ANALYSIS
+wannacry ransomware analysis
+notpetya attack analysis
+stuxnet malware history
+conficker worm analysis
+nimda worm history
+sql slammer analysis
+iloveyou worm case study
+zeus trojan analysis
+dridex malware analysis
+trickbot malware history
+emotet technical analysis
+agent tesla analysis
+icerat trojan analysis
+formbook malware analysis
+qbot qbott malware analysis
+gozi trojan analysis
+ramnit malware analysis
+tinba trojan analysis
+gamarue worm analysis
+sality virus history
+virut malware history
+locky ransomware analysis
+maze ransomware history
+revil ransomware analysis
+black basta ransomware analysis
+snatch ransomware analysis
+clop ransomware analysis
+medusa locker ransomware
+royal ransomware analysis
+darkside ransomware history
+blackmatter ransomware analysis
+babuk ransomware analysis
+mount locker ransomware analysis
+cryptolocker ransomware case study
+cryptowall ransomware history
+cryptorbit ransomware analysis
+samsam ransomware analysis
+petya ransomware analysis
+cerber ransomware analysis
+phobos ransomware analysis
+
+# NATION-STATE / APT GROUPS (PUBLIC OSINT)
+apt28 malware analysis
+apt29 activity analysis
+apt30 cyber operations history
+apt32 oceanlotus analysis
+apt33 threat group analysis
+apt34 oilrig analysis
+apt35 charming kittten analysis
+apt38 lazarus subgroup analysis
+lazarus group malware history
+turla snake malware analysis
+sandworm apt analysis
+equation group history
+fin4 group osint
+fin5 group osint
+fin7 group cybercrime analysis
+silverfish threat actor analysis
+charming kitten cyber history
+gamaredon group analysis
+blue bravo analysis
+volt typhoon analysis
+mustang panda analysis
+
+# MOBILE MALWARE
+pegasus spyware investigation history
+flubot android malware analysis
+triada android trojan analysis
+xbot android banking trojan
+xagent ios malware history
+android spyware case studies
+android botnet history
+ios malware research osint
+
+# BOTNETS
+mirai botnet analysis
+mozi botnet analysis
+darknexus botnet analysis
+avalanche botnet takedown history
+cutwail botnet analysis
+kraken botnet history
+necurs botnet analysis
+ddos botnet history
+
+# EXPLOITS & VULNERABILITIES (PUBLIC CVES)
+eternalblue exploit analysis
+doublepulsar analysis
+log4shell vulnerability analysis
+shellshock vulnerability history
+heartbleed vulnerability analysis
+follina msdt exploit analysis
+printnightmare vulnerability analysis
+spectre cpu vulnerability analysis
+meltdown vulnerability analysis
+rowhammer attack analysis
+bluekeep vulnerability history
+zerologon vulnerability analysis
+proxylogon exploit analysis
+cve exploit archives public analysis
+rce vulnerability case studies
+
+# MALWARE TECHNIQUES (DEFENSIVE UNDERSTANDING)
+process hollowing analysis
+process injection techniques
+dll injection analysis
+thread hijacking analysis
+malware obfuscation techniques
+packer detection analysis
+polymorphic malware research
+metamorphic malware analysis
+c2 command and control patterns
+fileless malware analysis
+malware persistence registry techniques
+bootkit analysis case studies
+uefi rootkit analysis
+kernel rootkit analysis
+sandbox evasion techniques analysis
+edr bypass case studies (public reports)
+lolbins living off the land binaries analysis
+memory-only malware analysis
+
+# REVERSE ENGINEERING
+static malware analysis techniques
+dynamic analysis tutorial
+pe file structure analysis
+elf binary analysis
+mach-o binary analysis
+ghidra reverse engineering guide
+ida pro reverse engineering guide
+radare2 reversing techniques
+binary instrumentation techniques
+x64dbg tutorial
+winapi deep dive for malware analysis
+linux syscalls analysis
+assembly reversing tutorial
+firmware reverse engineering
+emulator-based analysis
+malware unpacking tutorial
+
+# DIGITAL FORENSICS
+memory forensics case studies
+volatility framework tutorials
+registry forensics
+windows incident response timeline
+linux incident response case studies
+forensic artifact analysis
+network forensics tutorials
+pcap traffic analysis
+disk forensics tutorials
+browser forensics
+email header forensics
+log analysis case studies
+
+# THREAT INTELLIGENCE
+cyber threat intelligence reports
+threat actor tracking osint
+apt campaign clustering
+ioc indicator extraction
+tactics techniques and procedures ttp analysis
+mitre att&ck mapping
+malware attribution research
+cyber kill chain analysis
+supply chain attack case studies
+phishing campaign analysis
+dark web monitoring reports
+botnet takedown operations
+law enforcement cybercrime cases
+threat modeling frameworks
+
+# GOV AGENCIES & PUBLIC HISTORY
+federal bureau of investigation history
+central intelligence agency history
+nsa surveillance history
+dhs cyber policy history
+us cyber command history
+uk gchq history
+canadian csec history
+australian signals directorate history
+mossad public history
+svr public history
+mss china public analysis
+mi5 public history
+mi6 public history
+five eyes intelligence alliance history
+church committee intelligence oversight
+intelligence transparency reports public
+
+# WHISTLEBLOWERS & PUBLIC LEAKS (HISTORICAL)
+edward snowden nsa leaks history
+chelsea manning leaks history
+wikileaks publications history
+panama papers investigation
+paradise papers investigation
+vault 7 leak history
+shadow brokers leak analysis
+pegasus spyware investigation
+cambridge analytica scandal history
+
+# COMPANIES (TECH, DEFENSE, DATA)
+palantir technologies history
+blackrock company research
+lockheed martin cyber programs history
+raytheon technologies cyber history
+booz allen hamilton history
+northrop grumman cyber programs
+thales group cyber research
+ibm cybersecurity history
+google security history
+microsoft security history
+cisco cybersecurity analysis
+amazon aws security history
+
+# CYBERSECURITY NEWS / HIGH-EXPANSION TOPICS
+cybersecurity news
+malware news
+apt news
+data breach history
+privacy regulation history
+tech whistleblower history
+national cyber strategy history
+security vulnerability announcements
+cybercrime indictments
+global surveillance reporting
+
+# GENERAL HIGH-EXPANSION INTEL & TECH TOPICS
+open source intelligence osint
+cyber threat intelligence osint
+data privacy debates history
+government surveillance history
+corporate surveillance history
+big data analytics companies
+threat hunting methodologies
+cyber policy history
+information warfare case studies
+internet censorship case studies
+digital espionage history
+
+# NETWORKING / SYSTEMS / INFRASTRUCTURE
+network security fundamentals
+network protocol analysis
+packet capture analysis
+wireshark tutorial
+firewall analysis case studies
+ids intrusion detection system basics
+ips intrusion prevention system basics
+linux hardening
+windows hardening
+active directory security history
+cloud security architecture analysis
+zero trust security model history
+vpn protocol analysis
+dns security research
+tls protocol analysis
+https security history
+
+# DEVELOPMENT & SYSTEM TOPICS FOR BACKGROUND CONTEXT
+c programming deep dive
+c++ security pitfalls
+python security practices
+go memory safety
+rust cybersecurity properties
+low level programming security
+os kernel architecture
+windows internals analysis
+linux kernel security model
+browser security architecture
+virtualization security
+hypervisor research
+sandbox technology analysis
+emulation techniques for security
